@@ -61,4 +61,4 @@ Criação de Views, Functions e Procedures.
 Scripts de Teste (Reservas e Locações).
 
 ![Diagrama do Banco de Dados](https://github.com/ThayLSS/BancoDeDados/blob/4c9ed564b0f823cd961c149635fb66b876bc6a82/1-Diagrama%20PNG.png)
-)
+
