@@ -60,4 +60,5 @@ Criação de Views, Functions e Procedures.
 
 Scripts de Teste (Reservas e Locações).
 
-![Diagrama do Banco de Dados](diagrama.png)
+![Diagrama do Banco de Dados](<img width="945" height="546" alt="1-Diagrama PNG" src="https://github.com/user-attachments/assets/99d7a450-73dd-4635-b487-5a529ed973ca" />
+)
